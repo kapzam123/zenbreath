@@ -40,7 +40,7 @@ flutter run
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/your_username/zen-breath/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/kapzam123/zen-breath/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
