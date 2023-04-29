@@ -25,7 +25,7 @@ Make sure you have Flutter installed on your local machine. For more information
 git clone https://github.com/kapzam123/zenbreath.git
 
 2. Navigate to the project directory
-cd zen-breath
+cd zenbreath
 
 3. Install the dependencies
 flutter pub get
@@ -40,11 +40,11 @@ flutter run
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/kapzam123/zen-breath/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/kapzam123/zenbreath/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kapzam123/zen-breath/blob/main/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kapzam123/zenbreath/blob/main/LICENSE.md) file for details
 
 ## Acknowledgments
 
