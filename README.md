@@ -22,7 +22,7 @@ Make sure you have Flutter installed on your local machine. For more information
 ### Installation
 
 1. Clone the repository
-git clone https://github.com/your_username/zen-breath.git
+git clone https://github.com/kapzam123/zenbreath.git
 
 2. Navigate to the project directory
 cd zen-breath
@@ -44,7 +44,7 @@ Please read [CONTRIBUTING.md](https://github.com/your_username/zen-breath/blob/m
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/your_username/zen-breath/blob/main/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kapzam123/zen-breath/blob/main/LICENSE.md) file for details
 
 ## Acknowledgments
 
