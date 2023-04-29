@@ -2,7 +2,7 @@
 
 Zen Breath is a mindful breathing and meditation app that helps users reduce stress and improve focus by guiding them through breathing exercises using a visually engaging expanding circle, accompanied by soothing sounds and self-improvement prompts.
 
-![Zen Breath App Screenshot](./assets/zen_background.jpg)
+![Zen Breath App Screenshot](./assets/screenshot.png)
 
 ## Features
 
